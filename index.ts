@@ -1,1 +1,5 @@
-console.log("Hello via Bun!");
+function main() {
+  console.log(`🚀 Welcome to simple-graphs!!`);
+}
+
+main();
