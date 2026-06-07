@@ -6,6 +6,7 @@
     "start": "bun index.ts",
     "dev": "bun --watch index.ts",
     "tests": "bun test --dots",
+    "tests:watch": "bun test --dots --watch",
     "tests:coverage": "bun test --coverage"
   },
   "devDependencies": {
